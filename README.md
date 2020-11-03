@@ -1,2 +1,2 @@
 # hog
-HOG: Histogram of Oriented Gradients
+Build a Histogram of Oriented Gradients
